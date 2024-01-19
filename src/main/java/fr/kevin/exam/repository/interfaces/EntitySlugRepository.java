@@ -1,4 +1,4 @@
-package fr.kevin.exam.repository;
+package fr.kevin.exam.repository.interfaces;
 
 import java.util.Optional;
 
